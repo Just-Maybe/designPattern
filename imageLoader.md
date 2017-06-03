@@ -1,6 +1,6 @@
 # designPattern
 
-![image](http://github.com/qqhahaboy/designPattern/raw/master/imageloader/images/uml.png)
+![image](https://github.com/qqhahaboy/designPattern/raw/master/imageloader/images/uml.png)
 
 通过setImageCache(ImageCache cache)方法注入不同的缓存实现，这样不仅能够使ImageLoader更简单、健壮，也使得ImageLoader的可扩展性、灵活性更高。
 
