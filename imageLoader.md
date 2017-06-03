@@ -5,3 +5,4 @@ MemoryCache、DiskCache、DoubleCache缓存图片的具体实现完全不一样�
 
 用户需要自定义实现缓存策略时，只需要新建一个实现ImageCache接口的类，然后构造该类的对象，并且通过setImageCache(ImageCache cache)注入到ImageLoader中，
 这样ImageLoader就实现了千变万化的缓存策略，且扩展这些缓存策略并不会导致ImageLoader类的修改
+![image](http://github.com/qqhahaboy/designPattern/imageloader/images/uml.jpg)
