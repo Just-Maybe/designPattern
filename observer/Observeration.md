@@ -13,8 +13,6 @@
 #### 观察者模式中的角色
 
 ![image](https://github.com/qqhahaboy/designPattern/raw/master/observer/observationUML.png)
- 
- 
     Subject:
         抽象主题，也就是被观察者(Obserable)的角色，抽象主题角色把所有观察者对象的引用保存在一个集合里，
         每个主题都可以有任意数量的观察者，抽象主题提供一个接口，可以增加和删除观察者对象。
