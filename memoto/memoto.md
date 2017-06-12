@@ -9,7 +9,7 @@
     2、如果用一个接口来让其他对象得到这些状态，将会暴露对象的实现细节并破坏对象的封装性，
     一个对象不希望外界直接访问其内部状态，通过中间对象可以间接访问其内部状态。
     
- ![image](https://github.com/qqhahaboy/designPattern/raw/master/memoto/memotonUML.png)
+ ![image](https://github.com/qqhahaboy/designPattern/raw/master/memoto/memotoUML.png)
  
 #### 总结
     备忘录模式是在不破坏封装的条件下，通过备忘录对象存储另外一个对象内部状态的快照，
