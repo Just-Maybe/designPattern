@@ -7,6 +7,8 @@
     当无法或不想直接访问某个对象或访问某个对象存在困难时可以通过一个代理对象来间接访问，为了保证客户端使用的透明性，
     委托对象与代理对象需要实现相同的接口
  
+  ![image](https://github.com/qqhahaboy/designPattern/raw/master/proxy/proxyUML.png)
+ 
 #### 代理模式的角色介绍
     Subject: 抽象主题类
         该类的主要职责是声明真实主题与代理的共同接口方法，该类既可以是一个抽象类也可以是一个接口。
