@@ -34,7 +34,8 @@
         通过Proxy.newProxyInstance();新建代理对象
        
 #### Android 源码中的代理模式
-    *Android源码里有不少关于代理模式的实现，比如ActivityManagerProxy 代理类，其具体代理的是ActivityManagerNative的子类ActivityManagerService(AMS)
+    *Android源码里有不少关于代理模式的实现，比如ActivityManagerProxy 代理类，
+     其具体代理的是ActivityManagerNative的子类ActivityManagerService(AMS)
      
     *基于Binder 的 IPC机制 与 AIDL
         
