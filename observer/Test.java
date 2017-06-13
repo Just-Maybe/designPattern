@@ -4,7 +4,7 @@ package com.example.helloworld.androiddesignpattern.observer;
  * Created by helloworld on 2017/6/6.
  */
 
-public class Test {
+public class Client {
     public static void main(String[] args){
         //被观察者
         Magazine magazine = new Magazine();
