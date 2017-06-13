@@ -7,4 +7,4 @@
  
 * [备忘录模式](/memoto/memoto.md)
  
-* [中介者模式](/mediator/mediator)
+* [中介者模式](/mediator/mediator.md)
