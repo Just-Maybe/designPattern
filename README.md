@@ -1,6 +1,13 @@
 # designPattern
 设计模式笔记
-
+  
+  每个模式都有一个简单的列子.
+  
+  寻找android中的设计模式的小技巧:android 源码的命名想当规范，如果要找一个设计模式，这里以中介者模式为例子,只需要在源码中搜索"Mediator" 关键词，
+  就会找到KeyguardViewMediator 这个类，顺藤摸瓜只需阅读KeyguardViewMediator 的源码就可以找到其他的同事类，由此构建一个完整的设计模式类图。这里
+  再次体现命名的重要性。
+   
+  
 * [单例模式](/Singleton/singleton.md)
  
 * [观察者模式](/observer/Observeration.md)
