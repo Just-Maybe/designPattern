@@ -26,14 +26,14 @@
 
 #### 动态代理与静态代理
     静态代理:
-        代理类与 被代理类 实现共同的接口
-        代理类 持有 被代理类 的引用
-        代理类 中调用 被代理类 的方法
+        * 代理类与 被代理类 实现共同的接口
+        * 代理类 持有 被代理类 的引用
+        * 代理类 中调用 被代理类 的方法
 
     动态代理:
-        代理类 实现InvocationHandler 接口
-        ClassLoader 加载被代理的类
-        通过Proxy.newProxyInstance();新建代理对象
+        * 代理类 实现InvocationHandler 接口
+        * ClassLoader 加载被代理的类
+        * 通过Proxy.newProxyInstance();新建代理对象
        
 #### Android 源码中的代理模式
     *Android源码里有不少关于代理模式的实现，比如ActivityManagerProxy 代理类，
