@@ -17,5 +17,5 @@
      
 #### Android中的责任链模式
     * [事件分发处理](http://www.gcssloop.com/customview/dispatch-touchevent-theory) 参考 GcsSloop 大神的文章
-     
+      
     * 有序广播
