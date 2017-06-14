@@ -16,6 +16,6 @@
     ConcreteHandler: 具体处理者角色，对请求进行处理，如果不能处理则将该请求转发给下一个节点上的处理对象。
      
 #### Android中的责任链模式
-    * 事件分发处理
-     
+    * [事件分发处理](http://www.gcssloop.com/customview/dispatch-touchevent-theory) 参考 GcsSloop 大神的文章
+     
     * 有序广播
