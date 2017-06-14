@@ -9,6 +9,7 @@
     * 在请求处理不明确的情况下向多个对象中的一个提交一个请求。
     * 需要动态指定一组对象处理请求。
      
+ ![image](https://github.com/qqhahaboy/designPattern/raw/master/iterator/iteratorUML.png)    
 #### 角色介绍
     Handler: 抽象处理这角色，声明一个请求处理的方法，并在其中保持一个对下一个处理节点Handler对象的引用
      
