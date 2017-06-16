@@ -9,7 +9,8 @@
     3、需要一个统一的输出接口，而输入端的类型不可预知。
      
      类适配器                                                                            对象适配器 
-      ![image](https://github.com/qqhahaboy/designPattern/raw/master/adapter/classAdapter.png)   ![image](https://github.com/qqhahaboy/designPattern/raw/master/adapter/objectAdapter.png)  
+     
+      ![image](https://github.com/qqhahaboy/designPattern/raw/master/adapter/classAdapterUML.png)   ![image](https://github.com/qqhahaboy/designPattern/raw/master/adapter/objectAdapterUML.png)  
      
 #### 角色介绍
     Target: 目标角色，也就是所期待得到的接口。注意:由于这里讨论的是适配器模式，因此目标不可以是类
