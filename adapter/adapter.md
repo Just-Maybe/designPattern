@@ -10,7 +10,7 @@
      
      [类适配器](/adapter/adapter1/Client.java)                                                                              [对象适配器](/adapter/adapter2/Client.java) 
      
-     <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/classAdapterUML.png" width="50%" height="50%">   <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/objectAdapterUML.png" width="50%" height="50%">   
+     <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/classAdapterUML.png" width="45%" height="45%"> <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/objectAdapterUML.png" width="45%" height="45%">   
      
 #### 角色介绍
     Target: 目标角色，也就是所期待得到的接口。注意:由于这里讨论的是适配器模式，因此目标不可以是类
