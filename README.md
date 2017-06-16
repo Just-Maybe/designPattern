@@ -17,3 +17,5 @@
 * [中介者模式](/mediator/mediator.md)
  
 * [代理模式](/proxy/proxyPattern.md)
+ 
+* [责任链模式](/iterator/iterator.md)
