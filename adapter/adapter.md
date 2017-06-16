@@ -8,9 +8,9 @@
     2、想要建立一个可以重复使用的类，用于与一些彼此之间没有太大关联的一些类，包括一些可能在将来引进的的类一起工作。
     3、需要一个统一的输出接口，而输入端的类型不可预知。
      
-     类适配器                                                                            对象适配器 
+     [类适配器](/adapter1/Client.java)                                                                            对象适配器 
      
-     <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/classAdapterUML.png" width="40%" height="40%">   <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/objectAdapterUML.png" width="40%" height="40%">   
+     <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/classAdapterUML.png" width="50%" height="50%">   <img src="https://github.com/qqhahaboy/designPattern/raw/master/adapter/objectAdapterUML.png" width="50%" height="50%">   
      
 #### 角色介绍
     Target: 目标角色，也就是所期待得到的接口。注意:由于这里讨论的是适配器模式，因此目标不可以是类
