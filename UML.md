@@ -2,6 +2,7 @@
 
 ##### 依赖
 
+![image](https://github.com/qqhahaboy/designPattern/raw/master/umlpic/uml1.png)
 
 ```Java
 
@@ -17,7 +18,8 @@
 ```
 
 ##### 关联
-  
+![image](https://github.com/qqhahaboy/designPattern/raw/master/umlpic/uml2.png)
+   
 ```Java
 
     public class A{
@@ -28,7 +30,8 @@
 ```
 
 ##### 继承
-    
+![image](https://github.com/qqhahaboy/designPattern/raw/master/umlpic/uml3.png)
+     
 ```Java
 
     public class A extends B{
@@ -37,8 +40,9 @@
 
 ```
 
-####聚合
-
+##### 聚合
+![image](https://github.com/qqhahaboy/designPattern/raw/master/umlpic/uml4.png)
+  
 ```Java
     public class A{
         List<B> list = new ArrayList<B>();
@@ -52,7 +56,8 @@
 ```
  
 ##### 接口
-
+![image](https://github.com/qqhahaboy/designPattern/raw/master/umlpic/uml5.png)
+     
 ```Java
     public class A implements B{
     //  实现B 接口
