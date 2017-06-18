@@ -19,3 +19,5 @@
 * [代理模式](/proxy/proxyPattern.md)
  
 * [责任链模式](/iterator/iterator.md)
+ 
+* [适配器模式](/adapter/adapter.md)
