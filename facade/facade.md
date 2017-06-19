@@ -12,12 +12,15 @@
     2、当你需要构建一个层次结构的子系统时，使用Facade 模式定义子系统中每层的入口点。如果子系统之间
        是相互依赖，你可以让它们仅通过Facade接口进行通信，从而简化了它们之间的依赖关系。
        
+![image](https://github.com/qqhahaboy/designPattern/raw/master/facade/facadeUML.png)
+       
 ##### 角色介绍
     Facade：系统对外的统一接口，系统内部系统地工作。
     SystemA 、SystemB、SystemC：子系统接口
     
     
 ##### Android 中的外观模式
+![image](https://github.com/qqhahaboy/designPattern/raw/master/facade/AndroidFacadeUML.png)
     ContextImpl 内部封装了很多不同子系统的操作，例如Activity的跳转、发送广播、启动服务、设置壁纸等。
     这些工作并不是在ContextImpl中实现，而是转交给了具体的子系统进行处理。
     
