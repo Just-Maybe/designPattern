@@ -23,3 +23,5 @@
 * [责任链模式](/iterator/iterator.md)
  
 * [适配器模式](/adapter/adapter.md)
+ 
+* [享元模式](/flyweight/Flyweight.md)

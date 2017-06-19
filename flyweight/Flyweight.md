@@ -7,6 +7,7 @@
     1、系统中存在大量的相似对象。
     2、细粒度的对象都具备较接近的外部状态，而且内部状态与环境无关，也就是说对象没有特定身份。
     3、需要缓冲池的场景。
+ ![image](https://github.com/qqhahaboy/designPattern/raw/master/flyweight/flyweightUML.png)
  
 #### 角色介绍
     Flyweight:享元对象抽象基类或者杰克。
