@@ -27,3 +27,5 @@
 * [享元模式](/flyweight/Flyweight.md)
 
 * [外观模式](/facade/facade.md)
+
+* [桥接模式](/bridge/bridge.md)
