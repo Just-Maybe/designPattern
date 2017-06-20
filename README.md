@@ -25,3 +25,5 @@
 * [适配器模式](/adapter/adapter.md)
  
 * [享元模式](/flyweight/Flyweight.md)
+
+* [外观模式](/facade/facade.md)
