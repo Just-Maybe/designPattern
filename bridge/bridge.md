@@ -14,6 +14,7 @@
      
     一个类存在两个独立变化的维度，且这两个维度都需要进行扩展。
      
+![image](https://github.com/qqhahaboy/designPattern/raw/master/bridge/bridgeUML.png)
 #### 角色介绍
     * Abstraction:抽象部分
     该类保持一个对实现部分对象的引用，抽象部分中的方法需要调用实现部分的对象来实现，该类一般为抽象类。
