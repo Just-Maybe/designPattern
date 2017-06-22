@@ -1,8 +1,9 @@
 #### 工厂模式
 
-####工厂模式的定义
+#### 工厂模式的定义
     定义一个用于创建对象的接口，让子类决定实例化哪个类
      
+![image](https://github.com/qqhahaboy/designPattern/raw/master/factory/MultifactoryUML.png)
 #### 工厂模式的使用场景
     在任何需要生成复杂对象的地方，都可以使用工厂模式。复杂对象适合使用工厂模式，用new 就可以完成创建
     的对象无需要使用工厂模式。
