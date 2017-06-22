@@ -6,6 +6,7 @@
 #### 抽象工厂模式的使用场景
     一个对象族有相同的约束时可以使用抽象工厂模式。
     
+![image](https://github.com/qqhahaboy/designPattern/raw/master/abstractfactory/abstractFactoryUML.png)
 #### 角色介绍
     AbstractFactory:抽象工厂角色
         声明了一组用于创建一种产品的方法，每一个方法对应一种产品，入上述类图中的AbstractFactory中的就定义了两个方法，
