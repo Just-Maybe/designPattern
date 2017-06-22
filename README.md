@@ -29,3 +29,7 @@
 * [外观模式](/facade/facade.md)
 
 * [桥接模式](/bridge/bridge.md)
+ 
+* [工厂模式](/factory/factory.md)
+ 
+* [抽象工厂模式](/abstractfactory/abstractfactory.md)
